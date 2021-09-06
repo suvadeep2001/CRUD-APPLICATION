@@ -12,7 +12,7 @@ This is a simple **CRUD APP** .
  - css
  - javascript
  
- ## Installation
+ ## To Run this project Clone it and install modules using
  
  ```sh
 npm install
